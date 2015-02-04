@@ -1,2 +1,2 @@
 #!/bin/bash
-DEBUG=myapp ./bin/www > logs/run.log
+nohup ./bin/www > ./logs/run.log &

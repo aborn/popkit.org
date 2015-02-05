@@ -6,5 +6,5 @@ run ths start.sh script.
 
        ./start.sh
 
-## Nginx
+## Nginx Setting
 
